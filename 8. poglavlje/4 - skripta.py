@@ -1,0 +1,3 @@
+import moj
+
+moj.funkcijaIspisuje()

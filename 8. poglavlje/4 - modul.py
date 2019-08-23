@@ -1,0 +1,2 @@
+def funkcijaIspisuje():
+    print("Ispis!")
