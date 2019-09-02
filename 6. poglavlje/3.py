@@ -65,8 +65,8 @@ p1 = KonkretanPretplatnik("Ivica")
 p2 = KonkretanPretplatnik("Marica")
 c.noviPretplatnik(p1)
 c.noviPretplatnik(p2)
-c2.danasnjiCitat = "Brod je siguran u luci, ali brod nije izgađen da bi bio u luci."
+c2.danasnjiCitat = "Brod je siguran u luci, ali brod nije izgrađen da bi bio u luci."
 print()
 c2.danasnjiCitat = "Budi promjena koju želiš vidjeti u svijetu."
 print()
-c2.danasnjiCitat = "Nikada nije prekasno da budete ono što bi mogli biti."
+c2.danasnjiCitat = "Nikada nije prekasno da budete ono što biste mogli biti."
